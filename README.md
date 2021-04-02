@@ -1,2 +1,2 @@
-# C_chat_room
+# C_ChatRoom
 BSD based chat room
